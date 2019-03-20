@@ -2,5 +2,6 @@
 ### Dependencies
  - Tensorflow
  - pillow
+ - Scikit-Learn
  
 
