@@ -3,5 +3,6 @@
  - Tensorflow
  - pillow
  - Scikit-Learn
+ - Numpy
  
 
